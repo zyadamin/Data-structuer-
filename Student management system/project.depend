@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1588964433 source:d:\code forces\project\linkedliststudent.cpp
+
+1588964292 source:d:\code forces\project\linkedlistsubject.cpp
+
+1588969992 source:d:\code forces\project\main.cpp
+	<iostream>
+	"linkedlistsubject.h"
+	"linkedliststudent.h"
+
+1588964753 d:\code forces\project\linkedlistsubject.h
+	<iostream>
+
+1588970894 d:\code forces\project\linkedliststudent.h
+	"linkedlistsubject.h"
+	<iostream>
+
+1588964433 source:c:\users\manaz\desktop\project\linkedliststudent.cpp
+
+1588964292 source:c:\users\manaz\desktop\project\linkedlistsubject.cpp
+
+1589053144 source:c:\users\manaz\desktop\project\main.cpp
+	<iostream>
+	"linkedlistsubject.h"
+	"linkedliststudent.h"
+
+1589051262 c:\users\manaz\desktop\project\linkedlistsubject.h
+	<iostream>
+
+1589053463 c:\users\manaz\desktop\project\linkedliststudent.h
+	"linkedlistsubject.h"
+	<iostream>
+
+1589060135 source:c:\users\zezoa\desktop\project\linkedliststudent.cpp
+
+1589060135 source:c:\users\zezoa\desktop\project\linkedlistsubject.cpp
+
+1589061854 source:c:\users\zezoa\desktop\project\main.cpp
+	<iostream>
+	"linkedlistsubject.h"
+	"linkedliststudent.h"
+
+1589061748 c:\users\zezoa\desktop\project\linkedlistsubject.h
+	<iostream>
+
+1589061797 c:\users\zezoa\desktop\project\linkedliststudent.h
+	"linkedlistsubject.h"
+	<iostream>
+

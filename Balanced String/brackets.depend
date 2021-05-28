@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587053706 source:c:\users\zezoa\desktop\brackets\main.cpp
+	<iostream>
+	"Stacks.h"
+
+1587053075 c:\users\zezoa\desktop\brackets\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1587053612 c:\users\zezoa\desktop\brackets\linked_list.h
+	<iostream>
+
+1587053706 source:c:\users\zezoa\desktop\ass2 data structur\brackets\main.cpp
+	<iostream>
+	"Stacks.h"
+
+1587053075 c:\users\zezoa\desktop\ass2 data structur\brackets\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1587053612 c:\users\zezoa\desktop\ass2 data structur\brackets\linked_list.h
+	<iostream>
+
+1587089706 source:c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\brackets\main.cpp
+	<iostream>
+	"Stacks.h"
+
+1587089075 c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\brackets\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1587089612 c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\brackets\linked_list.h
+	<iostream>
+

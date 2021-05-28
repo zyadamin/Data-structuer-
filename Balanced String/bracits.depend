@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587049922 source:c:\users\zezoa\desktop\bracits\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
