@@ -1,5 +1,5 @@
 # Data-structuer-
-A. Student management system is a project that have a many function like
+1)Student management system is a project that have a many function like
 • Adding student using linked list
 Student linked list items (name , department , number of registered courses , pointer to linked list of students courses , pointer to next students)
 • Adding student subject grades as a branched linked list from students which contain (subject name , total ,grade , point )
@@ -17,8 +17,8 @@ Data structure
 88
 A
 3.7
-B. Solve the following problems
-I. In-place merge two sorted arrays
+ 
+2) In-place merge two sorted arrays
 Given two sorted arrays X[] and Y[] of size m and n each, merge elements of X[] with elements of array Y[] by maintaining the sorted order. i.e. fill X[] with first m smallest elements and fill Y[] with remaining elements.
 The conversion should be done in-place and without using any other data structure.
 For example,
@@ -29,7 +29,8 @@ Output:
 X[] = { 1, 2, 3, 4, 7 }
 Y[] = { 8, 9, 10}.
 II. Assume you have the following Tree Struct
-1. Print Tree
+
+3) Print Tree
 Write a print method that takes the node which the mirror image of the tree will start from if no parameter is sent to the function the default value will be the root node.
 You must solve this problem by three different algorithms.
 (Inorder, Preorder and Postorder)
@@ -73,7 +74,8 @@ _1_left->left = _2_left; _1_left->right = _2_right;
 largestValues(t);
 return 0;
 }
-III. Balanced String
+  
+ 4)Balanced String
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input
 string is valid.
 An input string is valid if:
